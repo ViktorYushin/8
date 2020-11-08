@@ -481,6 +481,9 @@ ul.menu_links li:hover{
         justify-content: center;
         padding: 40px;
     }
+    .footer-titile {
+        height: 10px;
+     }	
 }
 @media(max-width:320px){
     .contacts_btn{
