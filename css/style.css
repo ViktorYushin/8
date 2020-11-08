@@ -482,7 +482,7 @@ ul.menu_links li:hover{
         padding: 40px;
     }
     .footer-titile {
-        height: 10px;
+        height: 0;
      }	
 }
 @media(max-width:320px){
