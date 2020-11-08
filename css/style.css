@@ -482,7 +482,7 @@ ul.menu_links li:hover{
         padding: 40px;
     }
     .footer-titile {
-        height: 0;
+        height: 20px;
      }	
 }
 @media(max-width:320px){
@@ -496,8 +496,5 @@ ul.menu_links li:hover{
     .contacts{
     	margin: 0;
 	padding: 0 0 70px 0;
-}
-    .footer-titile {
-        height: 10px;
 }
 }
