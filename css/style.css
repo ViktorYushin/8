@@ -453,7 +453,10 @@ ul.menu_links li:hover{
     display: flex;
     padding: 10px ;
 }
-
+.footer-titile {
+    display: block;
+    height: 140px;
+}
 .footer{
     position: fixed;
     width: 100%;
