@@ -65,7 +65,7 @@ header:before{
     position: relative;
     display: flex;
     justify-content: space-between;
-    height: 80px;
+    height: 50px;
     align-items: center;
 }
  .header_burger{
